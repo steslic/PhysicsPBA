@@ -1,0 +1,24 @@
+﻿  main.cpp
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(192): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(194): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(243): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(243): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(242): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(242): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+  PhysicsPBA.vcxproj -> C:\Users\mocas\source\repos\PhysicsPBA\Debug\PhysicsPBA.exe

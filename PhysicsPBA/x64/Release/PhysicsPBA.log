@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\users\mocas\source\repos\physicspba\physicspba\olcconsolegameengine.h(742): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\olcconsolegameengine.h(1082): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\olcconsolegameengine.h(1179): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(207): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(208): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(248): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(287): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(353): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(370): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(399): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(399): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(398): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+c:\users\mocas\source\repos\physicspba\physicspba\main.cpp(398): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: unresolved external symbol WinMain
+C:\Users\mocas\source\repos\PhysicsPBA\x64\Release\PhysicsPBA.exe : fatal error LNK1120: 1 unresolved externals
